@@ -14,7 +14,7 @@ If you want to test ML, you need to install the libraries in requirements.txt:
 pip3 install -r /server/requirements.txt
 ```
 
-**Vgdemo** include a vagrantFile, to use this, you have to install Vagrant and a VM VirtualBox.
+**Vgdemo** include a vagrantFile, to use this, you have to install Vagrant and a VM VirtualBox. 
 
 ```
 cd vgdemo
@@ -22,7 +22,7 @@ cd vgdemo
 ```
 vagrant up
 ```
-It will create a virtual environment for you. After the VM is starting. You can go to /src and run:
+It will create a virtual environment for you. (Note: The username and password both are: vagrant) After the VM is starting. You can go to /src and run:
 ```
 npm run dev
 ```
