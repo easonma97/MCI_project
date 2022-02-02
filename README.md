@@ -1,7 +1,9 @@
 # MCI_project
 This is the Master of Computing and Innovation Project by eason ma. 
 
-**Server** consists of **Backend**, **Frontend** and **Machine Learning Algorithm**
+**Server** consists of **Backend**, **Client Folder** and **Machine Learning Algorithm**
+
+**Client** consists of Frontend
 
 To make sure the project can run, you need to install npm and node.js
 
